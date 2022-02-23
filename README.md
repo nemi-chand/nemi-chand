@@ -26,10 +26,26 @@ Here are some ideas to get you started:
 <p/>
 
 <br/>
+<hr />
+<div align="center">
+  <a href="https://github.com/nemi-chand">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nemi-chand&show_icons=true&include_all_commits=true&theme=gradient"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemi-chand&layout=compact&theme=gradient"/>
+</div>
 
-![Nemi Chand Github Stats](https://github-readme-stats.vercel.app/api?username=nemi-chand&show_icons=true&include_all_commits=true&theme=radical)
-
-![Nemi Chand Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nemi-chand&layout=compact&theme=radical)
+## ⚡ Technologies I love and use
+  
+<div style="display: inline_block"><br>
+   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="angularjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+  <img align="center" alt="azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="MsSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+                                                              
+</div>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
